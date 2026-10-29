@@ -25,23 +25,27 @@ Em breve.
 
 ## Instalação (Claude Code)
 
-**Como plugin:**
+Instale sempre a partir de uma [release](https://github.com/ilanramos/skills/releases). A mais recente é a `v0.1.0`.
 
-```
-/plugin marketplace add ilanramos/skills
-/plugin install ilanramos-skills@ilanramos
-```
-
-**Com symlinks** (um `git pull` atualiza tudo):
+**Baixando a release:**
 
 ```bash
-git clone https://github.com/ilanramos/skills.git ~/skills
+VERSAO=v0.1.0
+mkdir -p ~/skills
+curl -L https://github.com/ilanramos/skills/archive/refs/tags/$VERSAO.tar.gz | tar xz --strip-components=1 -C ~/skills
 ~/skills/scripts/link-skills.sh
 ```
 
-**Com o skills CLI:** `npx skills add ilanramos/skills`
+**Pelo git, preso na release** (para atualizar, troque a tag):
 
-Instale por um caminho só, senão cada skill aparece duas vezes.
+```bash
+git clone --branch v0.1.0 --depth 1 https://github.com/ilanramos/skills.git ~/skills
+~/skills/scripts/link-skills.sh
+```
+
+O `link-skills.sh` cria os atalhos das skills em `~/.claude/skills`.
+
+**Para atualizar:** apague `~/skills` e repita o passo acima com a tag nova. As versões e as mudanças de cada uma ficam nas [releases](https://github.com/ilanramos/skills/releases).
 
 ## Organização
 
