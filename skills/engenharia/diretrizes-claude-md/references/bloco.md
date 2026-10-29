@@ -37,4 +37,3 @@ Regras de comportamento pra qualquer mudança neste projeto. Onde o projeto tive
 - Feche com os testes verdes e ofereça merge, PR ou manter na branch. Deploy é sempre com o dono do projeto.
 - Nas respostas, seja curto e direto. No código, seja exato.
 
-Base: karpathy-guidelines (multica-ai/andrej-karpathy-skills), obra/superpowers, ponytail e caveman.

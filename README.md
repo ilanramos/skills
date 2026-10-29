@@ -49,14 +49,6 @@ Instale por um caminho só, senão cada skill aparece duas vezes.
 - `skills/em-andamento`: rascunhos, fora do plugin.
 - `template/SKILL.md`: ponto de partida para uma skill nova.
 
-## Créditos
-
-Inspirado e baseado em projetos MIT:
-
-- [mattpocock/skills](https://github.com/mattpocock/skills): organização por categoria, plugin do Claude Code e script de symlinks.
-- [obra/superpowers](https://github.com/obra/superpowers): brainstorming, spec antes de código, planos em TDD, debug por causa raiz e verificação antes de concluir.
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills): pensar antes de codar, simplicidade, mudanças cirúrgicas e metas verificáveis.
-
 ## Licença
 
 [MIT](./LICENSE)

@@ -38,4 +38,3 @@ Cada tarefa é pequena, testável sozinha e tem:
 - Algum passo sem verify? → verify: nenhum.
 - Algum TBD? → verify: busca por "TBD" vazia.
 
-Base: obra/superpowers (writing-plans, test-driven-development) e andrej-karpathy-skills, ambos MIT.

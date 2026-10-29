@@ -46,4 +46,3 @@ Documento em pt-BR, direto, sem inventar dados: marque hipóteses como [HIPÓTES
 
 Entregue no formato pedido (por exemplo, Google Docs) e devolva o link.
 
-Base: obra/superpowers (brainstorming, writing-plans) e andrej-karpathy-skills, ambos MIT.
