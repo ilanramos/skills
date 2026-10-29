@@ -1,0 +1,3 @@
+# negocio
+
+Ainda sem skills.

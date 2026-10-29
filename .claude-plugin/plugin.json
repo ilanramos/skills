@@ -1,0 +1,14 @@
+{
+  "name": "ilanramos-skills",
+  "version": "0.1.0",
+  "description": "Skills em pt-BR para construir produtos com IA: design spec, planos em TDD e diretrizes de trabalho.",
+  "author": { "name": "Ilan Ramos", "url": "https://github.com/ilanramos" },
+  "repository": "https://github.com/ilanramos/skills",
+  "license": "MIT",
+  "keywords": ["skills", "pt-br", "design-spec", "tdd", "claude-code"],
+  "skills": [
+    "./skills/produto/design-spec",
+    "./skills/produto/plano-por-versao",
+    "./skills/engenharia/diretrizes-claude-md"
+  ]
+}

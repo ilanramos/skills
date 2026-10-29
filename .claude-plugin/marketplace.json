@@ -1,0 +1,14 @@
+{
+  "name": "ilanramos",
+  "owner": { "name": "Ilan Ramos", "url": "https://github.com/ilanramos" },
+  "description": "Skills do Ilan Ramos para Claude Code.",
+  "plugins": [
+    {
+      "name": "ilanramos-skills",
+      "source": "./",
+      "description": "Skills em pt-BR: design spec, planos em TDD e diretrizes de trabalho.",
+      "category": "productivity",
+      "keywords": ["pt-br", "design-spec", "tdd"]
+    }
+  ]
+}
