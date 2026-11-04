@@ -9,6 +9,7 @@
   "skills": [
     "./skills/produto/design-spec",
     "./skills/produto/plano-por-versao",
-    "./skills/engenharia/diretrizes-claude-md"
+    "./skills/engenharia/diretrizes-claude-md",
+    "./skills/engenharia/revisao-mobile"
   ]
 }
