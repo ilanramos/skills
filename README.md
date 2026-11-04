@@ -18,6 +18,7 @@ São pequenas, componíveis e fáceis de adaptar: copie, mude, faça suas.
 | Skill | O que faz |
 |---|---|
 | [`diretrizes-claude-md`](./skills/engenharia/diretrizes-claude-md/SKILL.md) | Aplica o bloco de diretrizes de trabalho (fluxo, simplicidade, mudanças cirúrgicas, TDD, causa raiz, evidência) no `CLAUDE.md` de um projeto. |
+| [`revisao-mobile`](./skills/engenharia/revisao-mobile/SKILL.md) | Revisa e corrige toque, campos e layout de um site no celular, só no que existe no projeto, e lista o que precisa ser testado em aparelho físico. |
 
 ### Negócio e Design
 
